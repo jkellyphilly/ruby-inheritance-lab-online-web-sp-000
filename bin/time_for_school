@@ -34,3 +34,6 @@ joel.first_name = "Joel"
 joel.last_name = "Kelly"
 joel.learn(some_knowledge)
 joel.learn(some_more_knowledge)
+
+puts "This is what Joel knows: #{joel.knowledge}."
+puts "This is what Steve knows: #{steve.knowledge}."
