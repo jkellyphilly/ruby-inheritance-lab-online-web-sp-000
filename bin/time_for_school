@@ -27,5 +27,4 @@ jim.last_name = "Halpert"
 # jim.learn(some_knowledge)
 
 some_more_knowledge = avi.teach
-
 steve.learn(some_more_knowledge)
