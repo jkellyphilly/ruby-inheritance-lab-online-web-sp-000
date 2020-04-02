@@ -24,6 +24,6 @@ jim.first_name = "Jim"
 jim.last_name = "Halpert"
 
 # this doesn't work - User class doesn't have the #learn method
-# jim.learn(some_knowledge) 
+# jim.learn(some_knowledge)
 
 some_more_knowledge = avi.teach
