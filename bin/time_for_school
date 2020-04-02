@@ -34,4 +34,3 @@ joel.first_name = "Joel"
 joel.last_name = "Kelly"
 joel.learn(some_knowledge)
 joel.learn(some_more_knowledge)
-
